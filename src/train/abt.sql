@@ -1,3 +1,5 @@
+-- Analytical Base Table
+
 WITH tb_churn AS (
 
     SELECT
